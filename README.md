@@ -17,6 +17,7 @@ pip install -r requirements.txt
 ```
 
 Usage:
+
 1.
 ```
 Create a text file and name it "emails.txt" (without quotations)
