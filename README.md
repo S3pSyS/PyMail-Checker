@@ -2,6 +2,7 @@
 An email checker for windows written in python3
 
 Installation:
+
 1.
 ```
 git clone https://github.com/S3pSyS/PyMail-Checker.git
